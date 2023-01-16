@@ -1,7 +1,10 @@
- body{
+ body main,footer{
     width: 50%;
     margin: auto;
     
+}
+.main{
+    display: inline;
 }
 
 header{
