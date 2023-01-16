@@ -1,11 +1,10 @@
  body main,footer{
-    width: 50%;
+    width: 80%;
     margin: auto;
     
+    
 }
-.main{
-    display: inline;
-}
+
 
 header{
     background-image: url("../img/pattern.png");
