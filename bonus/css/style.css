@@ -1,3 +1,9 @@
+ body{
+    width: 50%;
+    margin: auto;
+    
+}
+
 header{
     background-image: url("../img/pattern.png");
     background-color: rgb(55, 151, 155);
@@ -71,8 +77,3 @@ table {
     
  }
  
-
-
-
-
-
