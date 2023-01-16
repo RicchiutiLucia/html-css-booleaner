@@ -3,6 +3,7 @@ header{
     background-color: rgb(55, 151, 155);
     background-size: contain;
     
+    
 }
 
 #Intestazione_foto{
@@ -10,6 +11,60 @@ header{
     height: 100px;
     
 }
+
+.immagine img{
+    display: block;
+
+}
+
+thead{
+    background-color: #007fff;
+    color: white;
+}
+
+table {
+    
+    border-spacing: 0px;
+}
+
+.Riga_Dispari{
+    background-color: #99cbff ;
+    color: black;
+}
+
+.Riga_Pari{
+    background-color: white;
+    color: black;
+}
+
+#Informazioni{
+    color:grey
+}
+
+#colore1{
+    color:grey;
+}
+
+#colore2{
+    color: #007fff;
+    
+}
+
+#colore3{
+    color: grey;
+}
+
+.immagine{
+    position: relative;
+    
+}
+ .immagine h3{
+    position: absolute;
+    color: white;
+    left: 0;
+    top: 0;
+ }
+
 
 
 
