@@ -1,0 +1,15 @@
+header{
+    background-image: url("../img/pattern.png");
+    background-color: rgb(60, 185, 185);
+    background-size: contain;
+    
+}
+
+#Intestazione_foto{
+    width: 200px;
+    height: 100px;
+    
+}
+
+
+
