@@ -17,9 +17,19 @@ header{
 
 }
 
+ul{
+    margin-top: 30px;
+    padding-inline-start: 0;
+    margin-left: 14px;
+}
+
 thead{
     background-color: #007fff;
     color: white;
+    text-align: left;
+}
+.text {
+    width:50%;
 }
 
 table {
