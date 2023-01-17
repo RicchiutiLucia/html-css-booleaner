@@ -1,8 +1,13 @@
- body main,footer{
+
+ .contenitore{
     width: 80%;
     margin: auto;
     
     
+}
+body main,footer{
+    width: 80%;
+    margin: auto;
 }
 
 
@@ -19,6 +24,11 @@ header{
     height: 100px;
     
 }
+ul{
+    margin-top: 30px;
+    padding-inline-start: 0;
+    margin-left: 14px;
+}
 
 .immagine img{
     display: block;
@@ -28,13 +38,20 @@ header{
 thead{
     background-color: #007fff;
     color: white;
+    text-align: left;
+}
+
+.text {
+    width:50%;
 }
 
 table {
     
     border-spacing: 0px;
+    margin-bottom: 30px;
+    
+    
 }
-
 .Riga_Dispari{
     background-color: #99cbff ;
     color: black;
